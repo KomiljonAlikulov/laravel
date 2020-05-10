@@ -9,7 +9,7 @@
 
     <link href="https://fonts.googleapis.com/css?family=Raleway:100,600" rel="stylesheet" type="text/css">
 
-    <link href="/public/css/bootstrap.min.css" rel="stylesheet">
+    <link href="/css/bootstrap.min.css" rel="stylesheet">
     <link href="/public/css/starter-template.css" rel="stylesheet">
 </head>
 <body>
